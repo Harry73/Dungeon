@@ -951,29 +951,18 @@ Make directories /home/lp-research-linux-1 and /home/lp-research-linux-2. In the
 ```
 //lp-research-linux-1/scratch1 /home/lp-research-linux-1/scratch1 cifs uid=pateli3,gid=all,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm       0 0
 //lp-research-linux-1/pearlstl /home/lp-research-linux-1/pearlstl cifs uid=pearlstl,gid=all,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm      0 0
-
 //lp-research-linux-1/media    /home/lp-research-linux-1/media    cifs uid=pateli3,gid=all,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm       0 0
-
 //lp-research-linux-1/mun      /home/lp-research-linux-1/mun      cifs uid=mun,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm      0 0
-
 //lp-research-linux-1/maxwels2 /home/lp-research-linux-1/maxwels2 cifs uid=maxwels2,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm 0 0
-
 //lp-research-linux-1/setow1   /home/lp-research-linux-1/setow1   cifs uid=setow1,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm   0 0
-
 //lp-research-linux-1/shanleo1 /home/lp-research-linux-1/shanleo1 cifs uid=shanleo1,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm 0 0
-
 //lp-research-linux-1/sieberb1 /home/lp-research-linux-1/sieberb1 cifs uid=sieberb1,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm 0 0
 
 //lp-research-linux-2/pearlstl /home/lp-research-linux-2/pearlstl cifs uid=pearlstl,gid=all,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm      0 0
-
 //lp-research-linux-2/mun      /home/lp-research-linux-2/mun      cifs uid=mun,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm      0 0
-
 //lp-research-linux-2/maxwels2 /home/lp-research-linux-2/maxwels2 cifs uid=maxwels2,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm 0 0
-
 //lp-research-linux-2/setow1   /home/lp-research-linux-2/setow1   cifs uid=setow1,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm   0 0
-
 //lp-research-linux-2/shanleo1 /home/lp-research-linux-2/shanleo1 cifs uid=shanleo1,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm 0 0
-
 //lp-research-linux-2/sieberb1 /home/lp-research-linux-2/sieberb1 cifs uid=sieberb1,gid=research,credentials=/home/pateli3/.smbcredentials,iocharset=utf8,sec=ntlm 0 0
 ```
 
